@@ -3,7 +3,7 @@ Interactive Periodic Table of Elements written in HTML/CSS.
 
 ## Link:
 
-[https://theodorecooper.github.io/assets/html/table/index.html](https://theodorecooper.github.io/assets/html/table/index.html)
+[https://the0cp.github.io/assets/html/table/index.html](https://the0cp.github.io/assets/html/table/index.html)
 
 ## GIF Preview:
 
